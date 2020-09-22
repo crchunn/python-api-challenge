@@ -1,5 +1,5 @@
 import os
-
+# hide the real api keys
 # OpenWeatherMap API Key
 weather_api_key = os.environ.get('weather_api')
 
